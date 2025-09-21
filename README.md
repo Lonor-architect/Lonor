@@ -39,27 +39,29 @@ LONOR ist ein Projekt, das von seiner Gemeinschaft lebt. Wir suchen keine Mitarb
 
 ```mermaid
 graph TD
-    subgraph "Schicht 5: ANWENDUNG"
-        UI[Map, Vault, Chat]
-    end
-    subgraph "Schicht 4: API"
-        API[LONOR API / FastAPI]
-    end
-    subgraph "Schicht 3: INFERENZ & KURATION"
-        INFERENZ[Inferenz-Maschine]
-        KURATION[Kurations-Maschine]
-    end
-    subgraph "Schicht 2: SPEICHERUNG"
-        NEO4J[(Neo4j Graphendatenbank)]
-        WEAVIATE[(Weaviate Vektordatenbank)]
-    end
-    subgraph "Schicht 1: QUELLE DER WAHRHEIT"
-        MD[[.md-Dateien / Ground-Truth]]
+    subgraph "1. Der Fundamentale Baustein (Das Atom)"
+        A["<b>Die .md-Datei</b><br/>(Ein einzelnes, menschenlesbares Konzept)"]
     end
 
-    UI --> API
-    API --> INFERENZ
-    API --> KURATION
-    INFERENZ --> NEO4J & WEAVIATE
-    KURATION --> NEO4J & WEAVIATE
-    NEO4J & WEAVIATE --- MD
+    subgraph "2. Die Intelligente Verbindung (Die Kausalität)"
+        C["<b>Die Modulationsregel</b>"] --> C1["<b>einfluss:</b> +/- Wert<br/>(Die 'Physik' der Beziehung)"]
+        C["<b>Die Modulationsregel</b>"] --> C2["<b>begruendung:</b> '...'<br/>(Das 'Warum' der Beziehung)"]
+    end
+
+    subgraph "3. Das Netzwerk der Bedeutung (Die Kathedrale)"
+        D["<b>Der Wissensgraph / Ground-Truth</b><br/>(Tausende .md-Dateien, verbunden durch Modulationsregeln)"]
+    end
+
+    subgraph "4. Die Technische Manifestation (Das Gehirn)"
+        E["<b>Die Duale Datenbank</b><br/>(Neo4j für Struktur, Weaviate für Semantik)"]
+    end
+
+    subgraph "5. Die Neue Welt (Das Interface)"
+        F["<b>Das Internet der Konsequenzen</b><br/>(Erlebbar über Map, Vault und Chat)"]
+    end
+
+    %% Der logische Fluss
+    A -- "wird verbunden durch" --> C
+    C -- "bildet zusammen mit tausenden anderen" --> D
+    D -- "wird gespeichert und organisiert in" --> E
+    E -- "ermöglicht und manifestiert sich als" --> F
