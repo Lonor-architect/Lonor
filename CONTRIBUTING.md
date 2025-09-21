@@ -20,7 +20,7 @@ Wir haben einen klaren Pfad entworfen, der dich vom stillen Beobachter zum aktiv
 
 1.  **Tritt der Gilde auf Discord bei:** Das ist der erste Schritt. Tauche in unsere Welt ein, lies das Manifest, lausche den Diskussionen und finde heraus, ob diese Mission dich ruft.
 2.  **Stell dich vor:** Hinterlasse eine kurze Notiz im `#kathedrale`-Kanal. 
-3.  **Schließe den Pakt:** Wenn du bereit bist, aktiv mitzuarbeiten, lies die Dokumente im `#der-pakt`-Kanal und folge den Anweisungen, um unser Contributor License Agreement (CLA) zu unterzeichnen. Dies gewährt dir Zugang zu den geschützten Werkstatt-Kanälen.
+ASAP(3.  **Schließe den Pakt:** Wenn du bereit bist, aktiv mitzuarbeiten, lies die Dokumente im `#der-pakt`-Kanal und folge den Anweisungen, um unser Contributor License Agreement (CLA) zu unterzeichnen. Dies gewährt dir Zugang zu den geschützten Werkstatt-Kanälen.) -- In Bearbeitung
 4.  **Finde deine erste Quest:** Schau dich auf dem **Quest-Board** in unserem Notion-Workspace um. Suche dir eine kleine "XS"- oder "S"-Quest, die zu deinen Fähigkeiten passt. Das ist der perfekte, risikoarme Einstieg.
 5.  **Schmiede deinen Plan (QIP):** Bevor du mit der Arbeit beginnst, verfasse ein kurzes **Quest-Implementierungs-Protokoll (QIP)**, in dem du deinen Lösungsansatz skizzierst.
 6.  **Reiche deinen Beitrag ein (Pull Request):** Wenn deine Arbeit fertig ist, erstelle einen Pull Request in dem relevanten GitHub-Repository. Verweise in der Beschreibung auf dein QIP.
