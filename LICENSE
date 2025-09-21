@@ -1,6 +1,16 @@
-MIT License
+# Lizenzierung des LONOR-Projekts
 
-Copyright (c) 2025 Lonor-architect
+Das LONOR-Projekt besteht aus zwei fundamental unterschiedlichen Arten von geistigem Eigentum, die unter zwei verschiedenen, sorgfältig ausgewählten Lizenzen stehen: dem Quellcode und den Inhalten.
+
+---
+
+## 1. Der Quellcode (Die Schmiede)
+
+**Geltungsbereich:** Alle Quellcode-Dateien in diesem und den zugehörigen Repositories (insbesondere `.py`, `.js`, `.html`, `.css`, `Dockerfile`, etc.) stehen, sofern nicht anders in der Datei vermerkt, unter der folgenden MIT-Lizenz.
+
+**Lizenz:** Die MIT-Lizenz
+
+**Copyright (c) 2025, Simon C. Sternal & Mitwirkende der LONOR Gilde**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +29,26 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 2. Der Inhalt (Die Kathedrale)
+
+**Geltungsbereich:** Alle inhaltlichen und konzeptionellen Werke, insbesondere der `Ground-Truth` mit seinen `.md`-Dateien, das Manifest, die Lore, Whitepaper und andere Texte, stehen, sofern nicht anders vermerkt, unter der folgenden Creative-Commons-Lizenz.
+
+**Lizenz:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Dies ist eine für Menschen lesbare Zusammenfassung der (und kein Ersatz für die) [vollständigen Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
+**Sie dürfen:**
+
+* **Teilen** — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
+* **Bearbeiten** — das Material remixen, verändern und darauf aufbauen, und zwar für beliebige Zwecke, sogar kommerziell.
+
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen, solange Sie sich an die Lizenzbedingungen halten.
+
+**Unter den folgenden Bedingungen:**
+
+* **Namensnennung (BY)** — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+* **Weitergabe unter gleichen Bedingungen (SA)** — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
+* **Keine weiteren Einschränkungen** — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren anwenden, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
