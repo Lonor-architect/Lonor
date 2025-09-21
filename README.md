@@ -39,7 +39,7 @@ LONOR ist ein Projekt, das von seiner Gemeinschaft lebt. Wir suchen keine Mitarb
 
 ```mermaid
 graph TD
-    subgraph "1. Der Fundamentale Baustein (Das Atom)"
+    subgraph "1. Das Fundament (Das Atom)"
         A["<b>Die .md-Datei</b><br/>(Ein einzelnes, menschenlesbares Konzept)"]
     end
 
