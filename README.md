@@ -32,7 +32,7 @@ Unser aktueller Fokus liegt auf der Entwicklung der ersten, fundamentalen Werkze
 LONOR ist ein Projekt, das von seiner Gemeinschaft lebt. Wir suchen keine Mitarbeiter, wir suchen Mit-Architekten. Der beste Weg, um anzufangen, ist:
 
 1.  **Lesen Sie unseren Bauplan:** Tauchen Sie in unseren **[Notion-Workspace](https://harmonious-pineapple-7b1.notion.site/1f426acf759180708b53c1688627afb3?v=1f426acf7591801091ec000cacc201ce&pvs=141](https://harmonious-pineapple-7b1.notion.site/1f426acf759180708b53c1688627afb3?v=1f426acf7591801091ec000cacc201ce&pvs=141))** ein, um unsere Vision wirklich zu verstehen.
-2.  **Treten Sie der Gilde bei:** Kommen Sie auf unseren **[Discord-Server](https://discord.gg/FB3fBSEe)**, stellen Sie sich vor und werden Sie Teil des Dialogs.
+2.  **Treten Sie der Gilde bei:** Kommen Sie auf unseren **[Discord-Server](https://discord.gg/ZKkJUU4n)**, stellen Sie sich vor und werden Sie Teil des Dialogs.
 3.  **Lesen Sie die `CONTRIBUTING.md`:** Dieses Dokument erklärt im Detail, wie Sie an Quests teilnehmen, LIPs/QIPs einreichen und Teil der Bewegung werden können.
 
 ## Die Architektur im Überblick
